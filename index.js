@@ -32,7 +32,12 @@ function regementNumberIs(form) {
     let r = sumOfDigit(j);
 
     if (r > 9) {
+        if (r%10==0){
+            r=0;
+        }
+        else {
         r = Math.abs(Number(String(r)[String(r).length - 1]) - 10);
+        }
     }
 
     var x = String("Your Regement Number is: ") + String(reg) + String(r);
