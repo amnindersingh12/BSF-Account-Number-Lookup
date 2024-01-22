@@ -31,4 +31,4 @@ This project flourishes on collaboration! We welcome contributions from develope
 **I hope this professional, markdown-friendly description serves as a strong foundation for your GitHub repository.** Don't hesitate to ask if you need further assistance!
 
 ## 🔥 link to the application
-https://amnindersingh12.github.io/finding-Regiment-Number/
+https://amnindersingh12.github.io/BSF-Account-Number-Lookup/
